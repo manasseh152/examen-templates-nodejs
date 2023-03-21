@@ -1,0 +1,12 @@
+# node modules
+node_modules
+
+# local env files
+.env
+.env.local
+
+# any compiled output
+dist
+
+# logs
+/**/.turbo
