@@ -1,4 +1,9 @@
 {
+	"name": "turbo-monorepo",
+	"version": "1.0.0",
+	"description": "Turbo monorepo example",
+	"author": "Manasseh152",
+	"license": "MIT",
 	"devDependencies": {
 		"turbo": "^1.8.5"
 	},
